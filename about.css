@@ -1,0 +1,264 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(28, 28, 48);
+    /* background-image: linear-gradient(to right, rgb(28, 28, 48), rgb(17, 17, 40)); */
+}
+
+header {
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 0, 0);
+}
+
+nav {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+.icon {
+    margin-left: -31%;
+    font-size: 1.3rem;
+    font-family: sans-serif;
+    width: bold;
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
+    gap: 2rem;
+    margin: 0px -290px 0px 256px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 1%;
+}
+
+
+
+.photo{
+    margin-left: 5%;
+}
+.photo img{
+    width: 30%;
+}
+.name{
+    margin-left: 5%;
+}
+.name h2{
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: white;
+}
+.myself{
+    margin-left: 5%;
+}
+.myself p{
+    font-size: 1rem;
+    font-family: sans-serif;
+    /* color: white; */
+    color: #adadad;
+
+}
+
+.left-col{
+   
+    /* color: white; */
+    margin-left: 5.7rem;
+    margin-top: 1rem;
+    display: flex;
+    color: #adadad;
+
+}
+.left-col li{
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: bold;
+  
+}
+.about{
+    margin-left: 4.56rem;
+    margin-top: 2rem;
+}
+
+.about h1{
+    
+    font-size: 1.6rem;
+    font-weight: bold;
+    display: flex;
+    gap: 1rem;
+    color: white;
+    /* text-decoration: underline; */
+}
+
+.right-col{
+    
+}
+
+.workexp{
+    margin-left: 60%;
+    margin-top: -41%;
+}
+
+
+.workexp h2{
+    font-family: sans-serif;
+    color: white;
+    font-size: 2rem;
+}
+.work{
+    margin-top: 2%;
+}
+.work h6{
+    color: #d2cece;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.work p{
+    font-size: 1rem;
+    font-family: sans-serif;
+    /* color: white; */
+    color: #adadad;
+
+
+}
+.edu{
+    margin-top: 2%;
+    margin-left: 60%;
+}
+.edu h2{
+    font-family: sans-serif;
+    color: white;
+    font-size: 2rem;
+}
+.college{
+    margin-top: 2%;
+
+}
+.college h5{
+    /* color: white; */
+    color: #d2cece;
+     
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.college h6{
+    /* color: white; */
+    color: #d2cece;
+
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.college p{
+    font-size: 1rem;
+    font-family: sans-serif;
+    /* color: white; */
+    color: #adadad;
+
+}
+.school{
+    margin-top: 2%;
+
+}
+.school h5{
+    color: #d2cece;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.school h6{
+    color: #d2cece;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.school p{
+    font-size: 1rem;
+    font-family: sans-serif;
+    color: #adadad;
+}
+
+.hsc{
+    margin-top: 2%;
+
+}
+.hsc h5{
+    color: #d2cece;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.hsc h6{
+    color: #d2cece;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.hsc p{
+    font-size: 1rem;
+    font-family: sans-serif;
+    color: #adadad;
+
+}
+
+.achieve{
+
+    margin-left: 60%;
+    margin-top: 2%;
+
+}
+.achieve h2{
+    font-family: sans-serif;
+    color: white;
+    font-size: 2rem;
+}
+.achievement{
+    margin-top: 2%;
+
+}
+.achievement h6{
+    color: #d2cece;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.achievement p{
+    font-size: 1rem;
+    font-family: sans-serif;
+    color: #adadad;
+}
+.achievement1{
+    margin-top: 2%;
+
+}
+.achievement1 h6{
+    color: #d2cece;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.achievement1 p{
+    font-size: 1rem;
+    font-family: sans-serif;
+    color: #adadad;
+
+}
+
+hr{
+    border: 0;
+    border-top: 1px solid rgb(161, 159, 159);
+    margin: 20px 0;
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+    width: 70%;
+}
