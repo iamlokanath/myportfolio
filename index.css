@@ -154,7 +154,8 @@ align-items: center;
         align-items: center;
         justify-content: center;
         position: absolute;
-        background: #facaaa;
+        /* background: #facaaa; */
+        background: rgb(32, 32, 56);
     }
     .loader img{
         width: 20rem;
