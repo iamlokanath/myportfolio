@@ -147,16 +147,16 @@ align-items: center;
 
 
     
-    .loader{
+    /* .loader{
         width: 100vw;
         height: 100vh;
         display: flex;
         align-items: center;
         justify-content: center;
         position: absolute;
-        /* background: #facaaa; */
+        background: #facaaa;
         background: rgb(32, 32, 56);
-    }
-    .loader img{
+    } */
+    /* .loader img{
         width: 20rem;
-    }
+    } */

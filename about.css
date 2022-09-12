@@ -266,7 +266,7 @@ hr{
 }
 
 
- 
+/*  
 .loader{
     width: 100vw;
     height: 100vh;
@@ -274,10 +274,10 @@ hr{
     align-items: center;
     justify-content: center;
     position: absolute;
-    /* background: #facaaa; */
+    background: #facaaa;
     background-color: rgb(32, 32, 56);
     
 }
 .loader img{
     width: 20rem;
-}
+} */
