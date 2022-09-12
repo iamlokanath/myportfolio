@@ -143,3 +143,19 @@ align-items: center;
     align-content: space-between;
     align-items: center;
     }
+
+
+
+    
+    .loader{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        background: #facaaa;
+    }
+    .loader img{
+        width: 20rem;
+    }
