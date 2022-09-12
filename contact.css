@@ -1,7 +1,9 @@
 * {
     margin: 0%;
     padding: 0%;
-    background-color: rgb(28, 28, 48);
+    /* background-color: rgb(28, 28, 48); */
+    background-color: rgb(32, 32, 56);
+
     /* background-image: linear-gradient(to right, rgb(28, 28, 48), rgb(17, 17, 40)); */
 }
 

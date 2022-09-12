@@ -1,7 +1,7 @@
 * {
     margin: 0%;
     padding: 0%;
-    background-color: rgb(28, 28, 48);
+    background-color: rgb(32, 32, 56);
     /* background-image: linear-gradient(to right, rgb(28, 28, 48), rgb(17, 17, 40)); */
 }
 
@@ -65,7 +65,9 @@ nav {
     margin: -21px 1rem 20px 0;
 }
 .left-col p{
-    color: rgba(255,255,255,0.2 );
+    /* color: rgba(255,255,255,0.2 ); */
+    color: #d2cece;
+
     display: flex;
     gap: 1rem;
     font-size: 1.3rem;
